@@ -104,13 +104,13 @@ Dota 2 очень сильно отрывается от остальных ка
 
 [Средняя сумма призовых на игрока](https://github.com/pomerk1o/esports-prize-economics/blob/fd7aa3c60549e6d0719480cc6e373549f3c531b2/Esports-prize-economics/visualizations/the_average_amount_of_prize_money_per_player.png)
 
-[Распределение топ-500 игроков по доходам](distribution_of_the_top_500_players_by_income.png)
+[Распределение топ-500 игроков по доходам](https://github.com/pomerk1o/esports-prize-economics/blob/fd7aa3c60549e6d0719480cc6e373549f3c531b2/Esports-prize-economics/visualizations/distribution_of_the_top_500_players_by_income.png)
 
-[Концентрация доходов](income_concentration.png)
+[Концентрация доходов](https://github.com/pomerk1o/esports-prize-economics/blob/ee04f2f89aa89785ac06f2ff19939a8ef3091619/Esports-prize-economics/visualizations/income_concentration.png)
 
-[Топ игр по призовым](top_games_by_prize_money.png)
+[Топ игр по призовым](https://github.com/pomerk1o/esports-prize-economics/blob/ee04f2f89aa89785ac06f2ff19939a8ef3091619/Esports-prize-economics/visualizations/top_games_by_prize_money.png)
 
-[Средний доход vs медиана](average_income_vs_median.png)
+[Средний доход vs медиана](https://github.com/pomerk1o/esports-prize-economics/blob/ee04f2f89aa89785ac06f2ff19939a8ef3091619/Esports-prize-economics/visualizations/average_income_vs_median.png)
 
 ## Референсы
 - [Thriving world of esports: Trending games, top countries and prize money](https://www.bizcommunity.com/article/thriving-world-of-esports-trending-games-top-countries-and-prize-money-474329a)
