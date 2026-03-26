@@ -102,7 +102,7 @@ Dota 2 очень сильно отрывается от остальных ка
 
 ## Примеры визуализаций
 
-[Средняя сумма призовых на игрока](the_average_amount_of_prize_money_per_player.png)
+[Средняя сумма призовых на игрока](https://github.com/pomerk1o/esports-prize-economics/blob/fd7aa3c60549e6d0719480cc6e373549f3c531b2/Esports-prize-economics/visualizations/the_average_amount_of_prize_money_per_player.png)
 
 [Распределение топ-500 игроков по доходам](distribution_of_the_top_500_players_by_income.png)
 
